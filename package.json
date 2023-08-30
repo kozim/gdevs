@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "serve": "^14.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
